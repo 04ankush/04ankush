@@ -18,6 +18,7 @@
 - 📫 How to reach me **ankushshrungare63@gmail.com**
 
 - ⚡ Fun fact **build my own website for daily job updates,IT sector.**
+-  ![image alt](https://github.com/04ankush/04ankush/blob/51a727e8ce05f605836d4bd9d154ecb2fb39c8c5/short.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
